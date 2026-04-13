@@ -226,10 +226,6 @@ npx playwright test
 - Playwright test API: https://playwright.dev/docs/api/class-test
 - Best practices: https://playwright.dev/docs/best-practices
 
-## License
-
-Use the license policy of your organization/project.
-
 ## Lesson 1 Update
 
 - Added feature-branch workflow example changes on Feature-lesson1.
