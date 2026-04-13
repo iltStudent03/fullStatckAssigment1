@@ -1,0 +1,12 @@
+{
+  "name": "fullstack-assignment1",
+  "version": "0.1.0",
+  "description": "Basic starter project scaffold for FullStackAssignment1.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests configured yet.\" && exit 0"
+  },
+  "author": "labadmin",
+  "license": "MIT"
+}
