@@ -1,0 +1,16 @@
+{
+  "name": "fullstack-assignment1",
+  "version": "0.1.0",
+  "description": "Basic starter project scaffold for FullStackAssignment1.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "author": "labadmin",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0"
+  }
+}
