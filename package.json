@@ -5,8 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"No tests configured yet.\" && exit 0"
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
   },
   "author": "labadmin",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0"
+  }
 }
